@@ -1,4 +1,4 @@
-# Event API - Rinu
+# Event API - Ann
 
 This is a simple Event API built with **Node.js + Express** to manage events.
 
@@ -6,7 +6,7 @@ This is a simple Event API built with **Node.js + Express** to manage events.
 
 ## 🚀 Deployed API URL
 
-Base URL: **`https://event-api-rinu.onrender.com`**
+Base URL: **``**
 
 ---
 
@@ -15,8 +15,8 @@ Base URL: **`https://event-api-rinu.onrender.com`**
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/rinu143/event-api-rinu.git
-   cd event-api-rinu
+   git clone https://github.com/annmary2006/event-api-ann.git
+   cd event-api-ann
    ```
 
 2. **Install Dependencies**
